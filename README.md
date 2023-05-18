@@ -10,5 +10,5 @@ codes I wrote while taking the machine learning lecture.
 ### Week5 -> Linear Regression & Multiple Regression & Polynominal Regression & R2-Score and Metrics & Extra Samples of Regression
 ### Week6 -> Logistic Regression 
 ### Week7 -> Normalization & Naive Bayes & Support Vector Machine
-
+### Week8 -> Decision Tree & F1-Score
 ### Lecture Gıven by [Caner Özcan](https://www.linkedin.com/in/caner-%C3%B6zcan-0a4a04114/?originalSubdomain=tr)
