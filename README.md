@@ -11,4 +11,5 @@ codes I wrote while taking the machine learning lecture.
 ### Week6 -> Logistic Regression 
 ### Week7 -> Normalization & Naive Bayes & Support Vector Machine
 ### Week8 -> Decision Tree & F1-Score
+### Week9 -> RandomForest
 ### Lecture Gıven by [Caner Özcan](https://www.linkedin.com/in/caner-%C3%B6zcan-0a4a04114/?originalSubdomain=tr)
